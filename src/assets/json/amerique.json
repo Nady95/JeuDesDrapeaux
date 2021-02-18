@@ -1,0 +1,155 @@
+{
+    "continent": "Amerique",
+    "countries": [
+        {
+            "name": "Etats-Unis",
+            "cca2": "us",
+            "iso3": "usa",
+            "superficie": 9833517,
+            "description": "Les États-Unis sont un pays transcontinental dont l'essentiel du territoire se situe en Amérique du Nord, avec plus de 328.2 millions d'habitants. Les États-Unis ont la structure politique d'une république constitutionnelle fédérale à régime présidentiel composée de cinquante États, dont quarante-huit sont adjacents et forment le Mainland. Celui-ci est encadré par l'océan Atlantique à l'est, le golfe du Mexique au sud-est et l'océan Pacifique à l'ouest, et se trouve bordé au nord par le Canada et au sud-ouest par le Mexique. Les deux États non limitrophes sont l'Alaska, situé au nord-ouest du Canada, et Hawaï, un archipel situé au milieu de l'océan Pacifique-nord. De plus, le pays comprend quatorze territoires insulaires disséminés dans la mer des Caraïbes et le Pacifique. La géographie et le climat du pays sont extrêmement diversifiés, abritant une grande variété de faune et de flore, faisant des États-Unis l'un des 17 pays mégadivers de la planète. La capitale fédérale, Washington, est située dans le district de Columbia, une zone située hors des cinquante États. La monnaie est le dollar américain. Le drapeau se compose de treize bandes rouges et blanches ainsi que cinquante étoiles représentant les cinquante États fédérés de l'union. L'hymne national s'intitule The Star-Spangled Banner (La Bannière étoilée). Il n'y a pas de langue officielle aux États-Unis, bien que la langue nationale de facto soit l'anglais américain.",
+            "diaporama": [
+                {
+                    "url": "http://www.webdo.tn/wp-content/uploads/2015/12/statue.jpg"
+                },
+                {
+                    "url": "https://www.msg.com/wp-content/uploads/2017/08/MSG_LinkedIn_-L-1590x890-OPT-1280x720.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Bresil",
+            "cca2": "br",
+            "iso3": "bra",
+            "superficie": 8514876,
+            "description": "Le Brésil est le plus grand État d’Amérique latine. Le Brésil est le cinquième plus grand pays de la planète, derrière la Russie, le Canada, les États-Unis et la Chine. Avec une superficie de 8 514 876 km², le pays couvre près de la moitié du territoire de l'Amérique du Sud (47,3 %), partageant des frontières avec l'Uruguay et l'Argentine au sud, le Paraguay au sud-sud-ouest, la Bolivie à l'ouest-sud-ouest, le Pérou à l'ouest, la Colombie à l'ouest-nord-ouest, le Venezuela au nord-ouest, le Guyana au nord-nord-ouest, le Suriname et la France au nord (par la Guyane), soit la plupart des pays du continent sauf le Chili et l'Équateur. Le pays compte une population de 209 millions d'habitants. Il y a plus de 211,7 millions d'habitants et sa capitale est Brasilia.  Ancienne colonie portugaise, le Brésil a pour langue officielle le portugais alors que la plupart des pays d'Amérique latine ont pour langue officielle l'espagnol.",
+            "diaporama": [
+                {
+                    "url": "http://1.bp.blogspot.com/-cgXlAuZws-w/UeOydzhZU-I/AAAAAAAAPHo/8fM9blvZFEA/s1600/Corcovado+Mountain+(1).jpg"
+                },
+                {
+                    "url": "https://img.rezdy.com/PRODUCT_IMAGE/64765/086501301dc942279f702aeff0e3df1a09_Samb__dromo_lg.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Venezuela",
+            "cca2": "ve",
+            "iso3": "ven",
+            "superficie": 916445,
+            "description": "Le Venezuela est une république fédérale située dans la partie la plus septentrionale de l'Amérique du Sud, bordé au nord par la mer des Caraïbes, à l'est-sud-est par le Guyana, au sud par le Brésil, au sud-sud-ouest et à l'ouest par la Colombie. La langue nationale du Venezuela est l'espagnol et sa capitale et principale métropole est Caracas. Sa population est composée essentiellement de métis. Le Venezuela est une puissance énergétique majeure avec des réserves prouvées de 302 milliards de barils de pétrole, ce qui en fait le premier pays au monde dans le classement par réserves de pétrole prouvées devant l'Arabie saoudite, mais près des trois quarts de ces réserves (224 milliards de barils) sont des sables bitumineux11, dont l'exploitation est malaisée et très polluante. Il y a plus de 31,7 d'habitants et sa capitale est la ville de Caracas",
+            "diaporama": [
+                {
+                    "url": "http://upload.wikimedia.org/wikipedia/commons/4/47/CaracasCentre.jpg"
+                },
+                {
+                    "url": "https://www.alibabuy.com/photos/library/400/10069.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Perou",
+            "cca2": "pe",
+            "iso3": "per",
+            "superficie": 1285216,
+            "description": "Le Pérou est un pays situé dans l'Ouest de l'Amérique du Sud. Entouré par l'Équateur au nord-ouest, la Colombie au nord-nord-est, le Brésil au nord-est, la Bolivie au sud-est, le Chili au sud-sud-est et l'océan Pacifique à l'ouest-sud-ouest, il est le troisième pays du sous-continent par sa superficie : 1 285 220 km², et le quatrième par sa population : environ 32 millions d'habitants. Lima, une vaste aire urbaine de 9 millions d'habitants, est la capitale et la plus grande ville du pays. Sa capitale historique est Cuzco, dans les Andes6, ancienne capitale de l'empire inca.",
+            "diaporama": [
+                {
+                    "url": "https://www.planete3w.fr/wp-cv-content/uploads/2017/10/Uros-Lac-Titicaca-Perou.jpg"
+                },
+                {
+                    "url": "https://img-4.linternaute.com/xdfl7JsYRxS2UggzkQDTasOCcTA=/1080x/smart/6bc98cd600cd4b82a5b52b92ad78306d/ccmcms-linternaute/12217612.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Mexique",
+            "cca2": "mx",
+            "iso3": "mex",
+            "superficie": 1964375,
+            "description": "Le Mexique est un pays situé dans la partie méridionale de l'Amérique du Nord. Délimité à l'est-sud-est par le Guatemala et le Belize, et au nord-nord-ouest par les États-Unis d'Amérique, il est bordé à l'est par le golfe du Mexique et la mer des Caraïbes et au sud-ouest par l'océan Pacifique. C'est le quatorzième pays en superficie, avoisinant 2 millions km². Avec une population estimée en mai 2018 à 130,5 millions d'habitants par l'Organisation des Nations unies, le Mexique se classe au onzième rang mondial des pays les plus peuplés. Plus de 98 % des Mexicains parlent l'espagnol mexicain, et plus de 7 millions (environ 6 %) parlent une langue indigène ; la loi mexicaine les reconnaît comme langues nationales depuis 2003, mais aucune ne possède le statut de langue officielle. Politiquement, le Mexique est une république constitutionnelle fédérale, composée de trente-deux entités fédératives dont trente et une ont le statut d'État, Mexico n'ayant pas ce statut car abritant la capitale politique du pays.",
+            "diaporama": [
+                {
+                    "url": "http://girlgriot.files.wordpress.com/2008/08/p1010079_new.jpg"
+                },
+                {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Rey_Mysterio_October_2015.jpg/1920px-Rey_Mysterio_October_2015.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Costa Rica",
+            "cca2": "cr",
+            "iso3": "cri",
+            "superficie": 51100,
+            "description": "Le Costa Rica est une république constitutionnelle unitaire d'Amérique centrale ayant un régime présidentiel et 5 millions d'habitants. La majeure partie de son territoire est situé sur l'isthme centraméricain, encadré par la mer des Caraïbes à l'est-nord-est et l'océan Pacifique au sud-ouest, bordé au nord-nord-ouest par le Nicaragua et au sud-est par le Panama. Il comprend également l'île Cocos, située dans l'océan Pacifique, à plus de 500 kilomètres des côtes du pays. Il a pour capitale San José qui comptait environ 334 000 habitants en 2015. La langue officielle est l'espagnol et la monnaie le colón. Sa devise est « ¡Vivan siempre el trabajo y la paz! » (« Que vivent pour toujours le travail et la paix ! ») et son drapeau est constitué de cinq bandes horizontales respectivement bleue, blanche, rouge, blanche et bleue. Son hymne est Noble patria, tu hermosa bandera. Le Costa Rica est souvent surnommé « la Suisse de l’Amérique centrale ».",
+            "diaporama": [
+                {
+                    "url": "http://costaricatripkit.com/wp-content/uploads/2017/03/rio-sirena-corcovado-national-park-costa-rica.jpg"
+                },
+                {
+                    "url": "https://www.okvoyage.com/wp-content/uploads/2017/01/top-5-costa-rica-5.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Uruguay",
+            "cca2": "uy",
+            "iso3": "ury",
+            "superficie": 176220,
+            "description": "L’Uruguay est un pays du Cône Sud4 de l’Amérique du Sud, situé au sud du Brésil et à l’est-nord-est de l’Argentine, dont il est séparé par le fleuve Uruguay qui lui a donné son nom. La superficie terrestre de l’Uruguay est de 176 215 ± 64 km² — dont 1 199 km² de lacs artificiels sur le Río Negro — auxquels s’ajoutent, d’une part, les 105 ± 4 km² d’îles dans le fleuve Uruguay et, d’autre part, les 237 ± 6 km² du Rincón de Maneco, un territoire contesté5,6. Les eaux intérieures uruguayennes s’étendent sur 528 ± 40 km2 dans le Rio Uruguay, 1 031 ± 20 km² dans la Laguna Merín et 15 240 ± 20 km² dans le Río de la Plata. La mer territoriale uruguayenne s’étend sur 125 057 ± 9 km². Sa population est de 3 477 770 habitants. Sa capitale est Montevideo, qui est également la plus grande ville du pays avec près de 1 500 000 habitants.",
+            "diaporama": [
+                {
+                    "url": "https://cafeduvoyage.com/wp-content/uploads/2016/09/partir-vivre-en-uruguay.jpg"
+                },
+                {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kaa_mate.JPG/1200px-Kaa_mate.JPG"
+                }
+            ]
+        },
+        {
+            "name": "Paraguay",
+            "cca2": "py",
+            "iso3": "pry",
+            "superficie": 406752,
+            "description": "Le Paraguay est un pays d'Amérique du Sud sans accès à la mer. Son territoire compte deux régions différentes séparées par la rivière Paraguay : la partie orientale, qui est la plus peuplée, et l'occidentale, qui intègre le Chaco Boreal ou Gran Chaco (le Chaco est une région naturelle qui s'étend de la Bolivie centrale à l'Argentine septentrionale incluse). Entouré par le Brésil à l'est-nord-est, la Bolivie au nord-ouest et l'Argentine au sud-sud-ouest, le Paraguay occupe une superficie de 406 752 km², sa population est de 7 191 685 en 2020, sans compter une diaspora de centaines de milliers de Paraguayens, notamment en Argentine, où ils ont souvent fait souche. Sa capitale est Asuncion.",
+            "diaporama": [
+                {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Palacio_de_los_L%C3%B3pez.jpg"
+                },
+                {
+                    "url": "https://worldadventurers.files.wordpress.com/2012/07/2008_08_31-paraguay-filadelfia-9_thumb.jpg?w=1023&h=772"
+                }
+            ]
+        },
+        {
+            "name": "Jamaique",
+            "cca2": "jm",
+            "iso3": "jam",
+            "superficie": 11425,
+            "description": "La Jamaïque est une île de la mer des Caraïbes. Elle constitue un pays indépendant, faisant partie des Antilles, situé au sud de Cuba et à l'Ouest de l'île Hispaniola, territoire d'Haïti et de la République dominicaine. Il y a 2 808 570 habitants et sa capitale est Kingston. Initialement peuplée par les indigènes Arawaks et les Taïnos, l'île passe sous contrôle espagnol à la suite de l'arrivée de Christophe Colomb en 1494. De nombreux indigènes meurent alors de maladies et les Espagnols y transfèrent des esclaves africains. Nommée « Santiago », l'île demeure une possession espagnole jusqu'en 1655, lorsque l'Angleterre la conquiert et la rebaptise « Jamaica ». Sous le joug colonial britannique elle devient l'un des principaux exportateurs de sucre au monde grâce à son économie de plantation basée sur l'esclavage. Les Britanniques émancipent les esclaves en 1838, et nombre d'entre eux préfèrent alors l'agriculture vivrière aux plantations. À partir des années 1840, les Britanniques ont recours à des Chinois et des Indiens pour travailler dans les plantations. L'île obtient son indépendance du Royaume-Uni le 6 août 1962. La culture jamaïcaine a été diffusée dans le monde à travers le reggae et son plus célèbre représentant, Bob Marley. Elle rayonne également à travers ses exploits sportifs en athlétisme, avec des champions comme Usain Bolt et Shelly-Ann Fraser-Pryce.",
+            "diaporama": [
+                {
+                    "url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/08/19/03/usain-bolt-bolt.jpg"
+                },
+                {
+                    "url": "http://knownpeople.net/wp-content/uploads/b/bob-marley-images.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Cuba",
+            "cca2": "cu",
+            "iso3": "cub",
+            "superficie": 110860,
+            "description": "Cuba est un État insulaire des Caraïbes formé de l'île de Cuba (la plus grande île des Antilles), de l'île de la Jeunesse (appelée île aux Pins jusqu'en 1978) et de 4 095 cayes et Îlots. Il est situé à l'ouest des grandes Antilles, à la confluence de la mer des Caraïbes, du golfe du Mexique et de l'océan Atlantique ; au nord-est des Îles Caïmans ; au nord-nord-ouest de la Jamaïque ; à l'est du Mexique (Yucatán) ; au sud-sud-est de la péninsule de Floride ; au sud-ouest des Bahamas ; à l'ouest d'Haïti et des îles Turques-et-Caïques. Devançant Hispaniola en superficie, Cuba est toutefois derrière en nombre d'habitants : c'est ainsi la deuxième île la plus peuplée des Caraïbes avec près de 11 253 000 habitants. Sa capitale est La Havane, sa langue officielle l'espagnol et deux monnaies y sont utilisées : le peso cubain et le peso cubain convertible.",
+            "diaporama": [
+                {
+                    "url": "https://viago.ca/wp-content/uploads/2017/11/6-parque-central.jpg"
+                },
+                {
+                    "url": "http://theduran.com/wp-content/uploads/2016/12/541531141.jpg"
+                }
+            ]
+        }
+    ]
+}

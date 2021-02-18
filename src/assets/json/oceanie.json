@@ -1,0 +1,155 @@
+{
+    "continent": "Oceanie",
+    "countries": [
+        {
+            "name": "Australie",
+            "cca2": "au",
+            "iso3": "aus",
+            "superficie": 7692060,
+            "description": "L'Australie est un pays de l'hémisphère sud dont la superficie couvre la plus grande partie de l'Océanie. En plus de l'île éponyme, l'Australie comprend également la Tasmanie ainsi que d’autres îles des océans Austral, Pacifique et Indien. Elle revendique aussi 6 000 000 km² en Antarctique. Les nations voisines comprennent notamment l'Indonésie, le Timor oriental et la Papouasie-Nouvelle-Guinée au nord, les îles Salomon, Vanuatu et le territoire français de Nouvelle-Calédonie au nord-est, la Nouvelle-Zélande au sud-est ainsi que le territoire français des îles Kerguelen (TAAF) à l'ouest des îles australiennes Heard et McDonald. Depuis son indépendance, l'Australie conserve un système politique stable de type démocratie libérale et reste une monarchie parlementaire membre du Commonwealth des Nations. La langue nationale est l'anglais et la monnaie le dollar australien. Sa capitale est Canberra, située dans le Territoire de la capitale australienne. Sa population, estimée à 25,2 millions d'habitants en décembre 2018, est principalement concentrée dans les grandes villes côtières de Sydney, Melbourne, Brisbane, Perth et Adélaïde. De surcroît, avec un PIB nominal de 1 379 milliards de dollars américains, l'État se place comme treizième puissance économique mondiale en 20178. Depuis l'an 2000, l'Australie est classée par le PNUD deuxième pays le plus développé au monde après la Norvège. Le pays est le septième émetteur de gaz à effet de serre par habitant en 20159.",
+            "diaporama": [
+                {
+                    "url": "https://bz2705group2.files.wordpress.com/2015/05/red-kangaroos.jpg"
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/4Qo7sBQe83c/maxresdefault.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Nouvelle-zelande",
+            "cca2": "nz",
+            "iso3": "nzl",
+            "superficie": 268680,
+            "description": "La Nouvelle-Zélande est un pays d'Océanie, au sud-ouest de l'océan Pacifique, constitué de deux îles principales (l'île du Nord et l'île du Sud), et de nombreuses îles beaucoup plus petites (environ 600), notamment l'île Stewart/Rakiura et les îles Chatham. Située à environ 2 000 km de l'Australie dont elle est séparée par la mer de Tasman, la Nouvelle-Zélande est très isolée géographiquement. Cet isolement a permis le développement d'une flore et d'une faune endémiques très riches et variées, allant des kauri géants aux insectes weta en passant par les kaponga et le kiwi, ces deux derniers étant des symboles du pays. Sa population est estimée à environ 5 millions d'habitants en 2020 et sa capitale est wellington.",
+            "diaporama": [
+                {
+                    "url": "http://www.thepublicbrand.com/wp-content/uploads/2014/03/NZ-All_Blacks-1200.jpg"
+                },
+                {
+                    "url": "https://www.vatebalader.com/wp-content/uploads/2018/02/sky_tower_1517914147-1024x682.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Fidji",
+            "cca2": "fj",
+            "iso3": "fji",
+            "superficie": 18270,
+            "description": "Les Fidji ou les îles Fidji est un pays d'Océanie situé dans l'Ouest de l'océan Pacifique sud. L'archipel, qui fait partie de la Mélanésie, se trouve à 744 km à l'ouest-nord-ouest des Tonga, à 788 km au sud-ouest de Wallis-et-Futuna et à 1 067 km au sud des Tuvalu. À la suite du coup d'État du 5 décembre 2006 de Frank Bainimarama et de la non-tenue d'élections en 2009, le pays a été exclu du Commonwealth et suspendu du Forum des îles du Pacifique. La tenue d'élections démocratiques en septembre 2014, saluées par ces deux organisations, a mené à la pleine réintégration des Fidji dans le Commonwealth. Sa population est d'environs 935 974 habitants et sa capitale est Suva",
+            "diaporama": [
+                {
+                    "url": "https://cdn.allwallpaper.in/wallpapers/1440x1080/3404/fiji-islands-green-hills-landscapes-1440x1080-wallpaper.jpg"
+                },
+                {
+                    "url": "https://www.lapageapageau.com/wp-content/uploads/2011/11/sri-siva-subramaniya-swami-temple.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Niue",
+            "cca2": "nu",
+            "iso3": "niu",
+            "superficie": 260,
+            "description": "Niue est un pays insulaire de l’Ouest de l'océan Pacifique sud. Il est situé à 2 400 km au nord-est de la Nouvelle-Zélande, au centre d'un triangle formé par les îles Tonga, Samoa et Cook. Découverte en 1774 par le capitaine James Cook, l'île devint un protectorat britannique en 1900 et fut administrée à ce titre par la Nouvelle-Zélande. Le 19 octobre 1974, Niue, à l'instar des îles Cook, a conclu un accord de libre association avec la Nouvelle-Zélande. Le pays ne dispose pas actuellement de sa souveraineté, bien qu'il ait commencé à établir sa propre politique étrangère et qu'il soit reconnu comme État non-membre par l'ONU. Sa population a atteint 1 624 en 2018 et sa capitale est Alofi ",
+            "diaporama": [
+                {
+                    "url": "https://s3.amazonaws.com/iexplore_web/images/assets/000/006/139/original/niue-_Avaiki_Cave.jpg?1443113976"
+                },
+                {
+                    "url": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/22/18/2218424_v3.jpeg"
+                }
+            ]
+        },
+        {
+            "name": "Palaos",
+            "cca2": "pw",
+            "iso3": "plw",
+            "superficie": 459,
+            "description": "Les Palaos est un pays d'Océanie situé en Micronésie, à l'est de Mindanao (Philippines), au nord de la Nouvelle-Guinée occidentale (Indonésie), à l'ouest des États fédérés de Micronésie et occupant l'extrémité occidentale de l'archipel des Carolines. Le pays est découpé en seize États répartis sur plusieurs centaines d'îles dont seulement quelques-unes sont habitées. La plus grande, Babeldaob, abrite dix des seize États, l'aéroport international Roman-Tmetuchl et la nouvelle capitale, Melekeok, dans l'État de Melekeok. L'ancienne capitale, Koror, occupe l'île du même nom et abrite plus de la moitié de la population du pays, faisant d'elle sa plus grande ville. Les Palaos obtiennent leur indépendance le 1er octobre 1994 des États-Unis qui avaient reçu un mandat des Nations unies. Le tourisme représente l'essentiel de l'activité économique. Pionnier en matière de sauvegarde des fonds marins, ce petit pays de Micronésie a fait de ses eaux un sanctuaire. Sa population était de 17 907 en 2018.",
+            "diaporama": [
+                {
+                    "url": "http://2.bp.blogspot.com/-YpiUs5yk8zQ/UOv7arGJSoI/AAAAAAAAbxg/UNJNZ1yv4eQ/s1600/Jellyfish_Lake_aerial_(March_2008).jpg"
+                },
+                {
+                    "url": "https://www.kayak.fr/rimg/dimg/b5/ef/7bdd4897-city-44850-16bfb92b063.jpg?crop=true&width=400&height=300"
+                }
+            ]
+        },
+        {
+            "name": "Îles salomon",
+            "cca2": "sb",
+            "iso3": "slb",
+            "superficie": 28450,
+            "description": "Les Îles Salomon sont un État situé à l'est-sud-est de la Papouasie-Nouvelle-Guinée. Les archipels qui composent ce pays se trouvent essentiellement en mer des Salomon et en mer de Corail. Les Salomon sont une monarchie membre du Commonwealth. Ils sont constitués d’une douzaine d’îles principales et de près d'un millier d'îles plus petites situées à cheval sur deux archipels : les îles Salomon pour la majorité du pays et les îles Santa Cruz pour la province de Temotu. Sa population était de 652 858 en 2018 et sa capitale est Honiara.",
+            "diaporama": [
+                {
+                    "url": "http://www.laquotidienne.fr/wp-content/uploads/2016/04/iles-salomon-2.jpg"
+                },
+                {
+                    "url": "https://i.pinimg.com/originals/96/ff/0a/96ff0a0b5814ea75ea235d6822306860.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Vanuatu",
+            "cca2": "vu",
+            "iso3": "vut",
+            "superficie": 12189,
+            "description": "Le Vanuatu est un État situé en mer de Corail et faisant partie de la Mélanésie. L'archipel est composé de 83 îles pour la plupart d'origine volcanique, à 539 kilomètres au nord-nord-est de la Nouvelle-Calédonie. Nommé « Nouvelles-Hébrides » après James Cook, l'archipel a connu une colonisation lente et discontinue depuis son exploration par les Européens à la fin du xviiie siècle jusqu'à la fin du xixe siècle. Il fit alors l'objet d'un conflit d'intérêt entre la France et le Royaume-Uni qui décidèrent en 1904 de mettre en place une administration conjointe. C'est ainsi que fut instauré, de 1906 à 1980, le condominium des Nouvelles-Hébrides, faisant de ces îles océaniennes une colonie gérée conjointement par deux puissances coloniales. En 1980, les Nouvelles-Hébrides deviennent indépendantes ; le nouveau nom de « Vanuatu » remplace rapidement la dénomination européenne. Sa population a atteint 298 333 en 2020 et sa capitale est Port-Vila",
+            "diaporama": [
+                {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Entr%C3%A9e_du_Mus%C3%A9e_National_du_Vanuatu_-_Centre_Culturel_du_Vanuatu.png"
+                },
+                {
+                    "url": "https://cdn.britannica.com/92/96692-050-0419F736/Iririki-Island-harbour-Port-Vila-Vanuatu-Efate.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Tonga",
+            "cca2": "to",
+            "iso3": "ton",
+            "superficie": 747,
+            "description": "Les Tonga est un État de Polynésie, situé dans l'Ouest de l'océan Pacifique sud, à 744 km à l'est-sud-est des îles Fidji et à 875 km au sud de Wallis-et-Futuna. Le pays est réparti en trois archipels principaux comportant plus de 170 îles et îlots. Centrées sur 20° de latitude Sud et 175° de longitude Ouest, autrefois appelées îles des Amis, elles forment aujourd’hui un royaume indépendant membre du Commonwealth. Le climat y est subtropical, chaud et humide ; les précipitations peuvent atteindre les 2 000 mm par année. Les Tonga ont une superficie de 748 km² et la capitale est Nukuʻalofa (« la patrie de l’amour » en tongien) sur l'île de Tongatapu. Sa population est de 103 197 en 2018",
+            "diaporama": [
+                {
+                    "url": "https://i.pinimg.com/originals/84/9a/49/849a49504539578e7e3ffc49e3b7149b.jpg"
+                },
+                {
+                    "url": "https://image.jimcdn.com/app/cms/image/transf/none/path/sf1b17e51f728a61e/backgroundarea/i7a2a7c948c1216bb/version/1462791953/image.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Nauru",
+            "cca2": "nr",
+            "iso3": "nru",
+            "superficie": 21,
+            "description": "Nauru est un État insulaire d'Océanie situé en Micronésie peuplé de 12 704 habitants en 2018 et l'un des plus petits États du monde. Située à 42 kilomètres au sud de l'équateur, l'île a une superficie de 21,3 km² et est formée d'un plateau central peu élevé culminant à 71 mètres au Command Ridge ceinturé par une étroite plaine côtière. Sur cette plaine se concentrent les logements et les infrastructures industrielles, agricoles, publiques et de transport, l'intérieur des terres étant majoritairement dévolu à l'extraction du minerai de phosphate qui constitue la seule richesse naturelle de Nauru. L'île est distante de 705 kilomètres de Tarawa-Sud, capitale des Kiribati, dans les îles Gilbert, à l'est-nord-est. Le pays n'a pas de capitale officielle1, toutefois Yaren est désigné de facto comme capitale car le district abrite le Parlement. Par sa superficie, l'île est considérée comme la plus petite république du monde. Sa densité est la plus élevée d'Océanie (9e rang mondial)",
+            "diaporama": [
+                {
+                    "url": "https://www.tresorsdumonde.fr/wp-content/uploads/2016/11/Nauru1.jpg"
+                },
+                {
+                    "url": "https://static.actu.fr/uploads/2017/05/makatea-854x571.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Samoa",
+            "cca2": "ws",
+            "iso3": "wsm",
+            "superficie": 2944,
+            "description": "Les Samoa sont un État indépendant de Polynésie occidentale, situé dans l'Ouest de l'océan Pacifique sud, appelé les Samoa occidentales jusqu’en 1997, sa population est de 196 130 habitants en 2018. Occupant la partie occidentale des îles Samoa, l'autre partie étant sous administration américaine, les Samoa comprennent quatre îles habitées (Upolu, Savai'i, Manono et Apolima) et six îlots inhabités. La capitale Apia et l’aéroport international de Faleolo sont situés sur la côte nord d'Upolu, deuxième plus grande île de l'archipel derrière Savai‘i. Les Samoans vivant à l'étranger, notamment aux États-Unis et en Nouvelle-Zélande, sont cependant plus nombreux que ceux restés à Samoa. Les Samoa sont une démocratie parlementaire membre de l'Organisation des Nations Unies et du Commonwealth des Nations. L'économie du pays a longtemps été basée sur l'exportation de matières premières (coprah, cacao et bananes notamment). Si l'agriculture emploie encore la majorité de la population active et continue à fournir une partie importante des exportations, l'industrie, les envois de fonds et le tourisme jouent un rôle important dans son économie.",
+            "diaporama": [
+                {
+                    "url": "https://geeksthenewblack.files.wordpress.com/2009/10/p9250614.jpg"
+                },
+                {
+                    "url": "https://i1.wp.com/reseaudurable.com/wp-content/uploads/2018/10/ile-samoa-energie-renouvelable.jpg?fit=1920%2C1440&ssl=1"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "continent": "Afrique",
+    "countries": [
+        {
+            "name": "Algerie",
+            "cca2": "dz",
+            "iso3": "dza",
+            "superficie": 2381741,
+            "description": "L'Algérie est un pays d’Afrique du Nord faisant partie du Maghreb. Depuis 1962, elle est nommée en forme longue République algérienne démocratique et populaire, abrégée en RADP. Sa capitale est Alger, la ville la plus peuplée du pays, dans le Nord, sur la côte méditerranéenne. Au 1er janvier 2019, la population algérienne résidente avait atteint 43 millions d’habitants. Avec une superficie de 2 381 741 km², c'est à la fois le plus grand pays d'Afrique, du monde arabe et du bassin méditerranéen. Il partage plus de 6 385 km de frontières terrestres, avec la Tunisie au nord-est, la Libye à l'est, le Niger au sud-est, le Mali au sud-ouest, la Mauritanie et le Sahara occidental à l'ouest, et enfin le Maroc au nord-ouest.",
+            "diaporama": [
+                {
+                    "url": "https://cdn-images-1.medium.com/max/1600/1*E-S7Y80jIFuZ03xyc89fnA.jpeg"
+                },
+                {
+                    "url": "http://www.flagsonline.it/Bandiere/bangrandi/algeria.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Comores",
+            "cca2": "km",
+            "iso3": "com",
+            "superficie": 1659,
+            "description": "Les Comores est une république fédérale d'Afrique australe possédant 846 281 habitants située dans le nord du canal du Mozambique, un espace maritime de l'océan Indien. Le pays a pour capitale Moroni, pour langues officielles le comorien (shikomor), parlé par 96,9 % de la population, le français et l'arabe et pour monnaie le franc comorien. L'Union des Comores est membre de la Ligue arabe, de l'Organisation de la coopération islamique, de l'Organisation internationale de la francophonie et de l'Assemblée parlementaire de la francophonie. Colonie française à partir de 1892, les Comores obtiennent leur indépendance le 6 juillet 1975.",
+            "diaporama": [
+                {
+                    "url": "https://www.jeuneafrique.com/medias/2015/08/14/comores_afp-592x296-1574857637.jpg"
+                },
+                {
+                    "url": "https://daharicomores.org/wp-content/uploads/2015/07/02.jpg"
+                }
+              ]
+        },
+        {
+            "name": "Cap-Vert",
+            "cca2": "cv",
+            "iso3": "cpv",
+            "superficie": 4033,
+            "description": "Le Cap-Vert est un État insulaire, composé d'un archipel de dix îles volcaniques et possédant 543 767 habitants. Situé dans l'océan Atlantique, au large des côtes du Sénégal, il couvre une superficie d'environ 4 000 km2. Praia, la capitale, se trouve à 644 km de la presqu'île du Cap-Vert, au Sénégal. L'archipel se divise en deux séries d'îles : au sud les îles de Sotavento (Brava, Fogo, Santiago et Maio) et au nord les îles de Barlavento (Boa Vista, Sal, São Nicolau, Santa Luzia, São Vicente et Santo Antão). Santiago comprend à elle seule plus de la moitié de la population du pays, dont la capitale Praia.",
+            "diaporama": [
+                {
+                    "url": "https://www.partir.com/images/incontournables/cap-vert-sal.jpg"
+                },
+                {
+                    "url": "https://www.partir.com/images/incontournables/cap-vert-boa-vista.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Afrique Du Sud",
+            "cca2": "za",
+            "iso3": "zaf",
+            "superficie": 1219912,
+            "description": "L'Afrique du Sud est un pays situé à l'extrémité australe du continent africain. Sa capitale administrative est Pretoria. Il est frontalier à l'ouest-nord-ouest avec la Namibie, au nord et au nord-nord-est avec le Botswana, au nord-est avec le Zimbabwe, et à l'est-nord-est avec le Mozambique et l'Eswatini. Le Lesotho est pour sa part un État enclavé dans le territoire sud-africain. L'Afrique du Sud compte 56,72 millions d’habitants en 2017 répartis en 80,2 % de Noirs, 8,8 % de Coloureds, 8,4 % de Blancs et 2,5 % d'asiatiques (sous-continent indien). Nation aux phénotypes très variés, l'Afrique du Sud est ainsi en Afrique le pays présentant la plus grande portion de populations dites coloureds, blanches et indiennes. Elle est souvent appelée « nation arc-en-ciel », notion inventée par l'archevêque Desmond Tutu pour désigner la diversité de la nation sud-africaine et qui a remplacé le concept de société plurale employé précédemment par les théoriciens de l'apartheid (1948-1991).",
+            "diaporama": [
+                {
+                    "url": "https://i.cbc.ca/1.1573404.1394633930!/httpImage/image.jpg_gen/derivatives/16x9_1180/nelson-mandela.jpg"
+                },
+                {
+                    "url": "https://uploads.exoticca.co.uk/en_UK/destination/poi/kruger-national-park.png"
+                }
+            ]
+        },
+        {
+            "name": "Egypte",
+            "cca2": "eg",
+            "iso3": "egy",
+            "superficie": 1001450,
+            "description": "L'Égypte Écouter est un pays se trouvant en Afrique du Nord-Est et, pour la péninsule du Sinaï, en Asie de l'Ouest. Située sur la côte sud de la Méditerranée orientale, le bassin Levantin, l'actuelle Égypte occupe l'espace géographique qui fut autrefois celui de l'Égypte antique. Avec près de 105 millions d'habitants en 2020, l'Égypte est le troisième pays le plus peuplé d'Afrique derrière le Nigeria et l'Éthiopie. En très forte croissance, sa population a été multipliée par quatre en soixante ans. Sa capitale est Le Caire et sa monnaie la livre égyptienne. La langue officielle du pays est l'arabe, utilisé dans tous les documents et dans l'éducation. Par contre, la langue parlée est l'arabe égyptien (arabe dialectal). Le siwi — tamazight (berbère) de l'ouest du pays — est parlé à Siwa. Le copte n'est utilisé que comme langue liturgique des chrétiens d'Égypte. Le nubien est parlé par les habitants de Haute-Égypte, dans la province d'Assouan, une région communément appelée Nubie.",
+            "diaporama": [
+                {
+                    "url": "http://1.bp.blogspot.com/-VAbNPYHUZ5U/US9k1vSAxkI/AAAAAAAAT5I/qY6kMTbFz4I/s1600/Egypt+Pyramids+Wallpapers+2.jpg"
+                },
+                {
+                    "url": "http://famouswonders.com/wp-content/gallery/pyramids-of-egypt/the-sphinx-at-gizacairo-in-egypt-with-the-pyramid-of-chephren-khafre-in-the-background.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Ethiopie",
+            "cca2": "et",
+            "iso3": "eth",
+            "superficie": 1127127,
+            "description": "L'Éthiopie est un État de la Corne de l'Afrique. L'Éthiopie a des frontières communes avec l'Érythrée (ancienne province) au nord, la Somalie à l'est-sud-est, le Soudan au nord-ouest, le Soudan du Sud à l'ouest-sud-ouest, le Kenya au sud et la république de Djibouti au nord-est. Depuis l'indépendance de l'Érythrée en 1993, l'Éthiopie n'a plus d'accès à la mer. Deuxième pays d'Afrique par sa population, derrière le Nigeria, avec 108 386 391 habitants, l'Éthiopie est le neuvième pays du continent par sa superficie (1 127 127 km2). Essentiellement constitué de hauts plateaux, s'étendant de la dépression de Danakil à −120 m jusqu'aux sommets enneigés du mont Ras Dashan à 4 543 m, le pays possède un environnement très diversifié traversé par six zones climatiques. La capitale Addis-Abeba, située à 2 400 m d'altitude, est la cinquième capitale la plus élevée au monde.",
+            "diaporama": [
+                {
+                    "url": "https://static.wixstatic.com/media/108ff4_a5eca1cd0aea48638c967ac3ae2df06b~mv2.jpg/v1/fill/w_1000,h_666,al_c,q_90,usm_0.66_1.00_0.01/108ff4_a5eca1cd0aea48638c967ac3ae2df06b~mv2.jpg"
+                },
+                {
+                    "url": "https://www.visoterra.com/images/original/chutes-du-nil-bleu-visoterra-41680.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Madagascar",
+            "cca2": "mg",
+            "iso3": "mdg",
+            "superficie": 587041,
+            "description": "Madagascar est un État insulaire situé dans l'océan Indien et géographiquement rattaché au continent africain, dont il est séparé par le canal du Mozambique. C’est la cinquième plus grande île du monde après l'Australie, le Groenland, la Nouvelle-Guinée et Bornéo et elle posséde plus de 26 millions d'habitants. Longue de 1 580 km et large de 580 km, Madagascar couvre une superficie de 587 000 km². Sa capitale est Antananarivo et le pays a pour monnaie l'ariary. Ses habitants, les Malgaches, sont un peuple austronésien parlant une langue malayo-polynésienne : le malgache. Le pays est entouré par d'autres îles et archipels dont l'île Maurice, les Seychelles, Mayotte, les Comores et La Réunion.",
+            "diaporama": [
+                {
+                    "url": "https://resize-gulli.jnsmedia.fr/r/890,__ym__/img//var/jeunesse/storage/images/gulli/chaine-tv/dessins-animes/roi-julian-l-elu-des-lemurs/personnages/le-roi-julian/27428040-1-fre-FR/Le-Roi-Julian.jpg"
+                },
+                {
+                    "url": "http://www.pngmart.com/files/3/Vanilla-Bean-PNG-Picture.png"
+                }
+            ]
+        },
+        {
+            "name": "Rwanda",
+            "cca2": "rw",
+            "iso3": "rwa",
+            "superficie": 26338,
+            "description": "Le Rwanda , surnommé le « pays des mille collines », est un pays d'Afrique de l'Est ayant 12 712 431 habitants. Le Rwanda étend ses 26 338 km² dans la région des Grands Lacs. Il partage des frontières avec, au nord, l'Ouganda, à l'est, la Tanzanie, au sud, le Burundi, et à l'ouest, la république démocratique du Congo. Sa capitale Kigali est située au centre du pays. Les Rwandais parlent le kinyarwanda, et vivent dans les collines qui constituent la localisation de référence des habitats.",
+            "diaporama": [
+                {
+                    "url": "http://www.visiterlafrique.com/wp-content/uploads/2016/06/Rwanda-Visiterlafrique-3.jpg"
+                },
+                {
+                    "url": "https://716lavie.com/wp-content/uploads/2018/04/Lac-Kivu-Rwanda.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Zambie",
+            "cca2": "zm",
+            "iso3": "zmb",
+            "superficie": 752614,
+            "description": "La Zambie est un pays d'Afrique australe, sans accès à la mer. Anciennement Rhodésie du Nord, jusqu'à son indépendance, elle fait partie intégrante du Commonwealth. Sa population est estimée à seize millions d'habitants en 2017. République démocratique, sa capitale est Lusaka. Son nom provient du fleuve Zambèze. Les pirogues restent un moyen de transport commode en milieu rural et en saison des pluies ; ici en 2006, dans les marais de Bangweulu en saison sèche (Zambie). La « Grande Route de l'Est » (ici à Lusaka), qui relie la province orientale avec le reste du pays, le Malawi et le nord du Mozambique. Paysage zambien. Zones humides au moment de l'étiage (saison sèche). Majoritairement recouvert par la savane, le pays abrite encore une riche biodiversité, avec une faune et une flore typiques de paysages et milieux variés, tout en étant le théâtre d'une urbanisation et périurbanisation croissante, ainsi que d'une augmentation des surfaces cultivées. Les frontières coloniales ont pour résultat une grande diversité de groupes culturels, qui sont partiellement reconnus par l'État par le biais de l'officialisation de rois et de chefs locaux. Héritage colonial, l'anglais est la langue officielle et doit aussi favoriser l'unité de la nation.",
+            "diaporama": [
+                {
+                    "url": "https://static.latribune.fr/722954/lusaka.jpg"
+                },
+                {
+                    "url": "https://i.pinimg.com/originals/d0/dd/35/d0dd35f709cb3e355a63fe36c105622a.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Burkina faso",
+            "cca2": "bf",
+            "iso3": "bfa",
+            "superficie": 274400,
+            "description": "Le Burkina Faso est un pays d'Afrique de l'Ouest sans accès à la mer possédant 20 835 401 habitants. Il est entouré par : le Mali au nord-ouest, le Niger au nord-est, le Bénin au Sud-Est, le Togo au sud-est, le Ghana au sud et la Côte d'Ivoire au sud-ouest. La capitale Ouagadougou est située au centre du pays. Le Burkina Faso est membre de l'Union africaine (UA), de la Communauté économique des États de l'Afrique de l'Ouest (CEDEAO), l'Organisation pour l'harmonisation en Afrique du droit des affaires (OHADA) et l'Organisation de la coopération islamique. C'est l'un des dix pays les moins développés du monde, avec un indice de développement humain de 0,402 en 2015.",
+            "diaporama": [
+                {
+                    "url": "https://i.pinimg.com/originals/87/63/91/876391445fd596cd835c0c681388b906.jpg"
+                },
+                {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Moschee_von_Bobo-Dioulasso.jpg/1200px-Moschee_von_Bobo-Dioulasso.jpg"
+                }
+            ]
+        }
+    ]
+}

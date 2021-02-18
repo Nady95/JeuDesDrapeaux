@@ -1,0 +1,17 @@
+#main {
+    margin-bottom:0;
+    padding-top:30px;
+}
+
+#flag1, #flag2, #flag3, #flag4, #flag5 {
+    width:100px;
+    height:67px;
+}
+
+#img1-carousel, #img2-carousel {
+    height:400px;
+}
+
+#en-savoir-plus {
+    margin-top:35px;
+}

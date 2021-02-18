@@ -1,0 +1,155 @@
+{
+    "continent": "Asie",
+    "countries": [
+        {
+            "name": "Corée du sud",
+            "cca2": "kr",
+            "iso3": "kor",
+            "superficie": 100210,
+            "description": "La Corée du Sud est un pays d'Asie de l'Est qui couvre la moitié sud de la péninsule coréenne, il y a presque 52 millions d'habitants. Sa capitale est Séoul. La langue officielle est le coréen, dont l'écriture est le hangeul ou hangul et la monnaie le won. L'animal représentant le pays est le tigre.Au nord, son unique frontière terrestre d'une longueur de 238 km avec la Corée du Nord, est constituée par la zone démilitarisée (DMZ). La Corée du Sud est bordée par la mer Jaune à l’ouest, par la mer du Japon à l’est (dont l'appellation est dénoncée par les Sud-Coréens qui la désignent « mer de l'Est ») et par le détroit de Corée au sud.",
+			"diaporama": [
+                {
+                    "url": "https://cdn.generationvoyage.fr/2019/08/busan-south-korea.jpg"
+                },
+                {
+                    "url": "https://preparetravelplans.com/wp-content/uploads/2017/12/Overall-View-of-Namsan-Tower-683x1024.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Vietnam",
+            "cca2": "vn",
+            "iso3": "vnm",
+            "superficie": 330967,
+            "description": "Le Viêt Nam, Viet Nam, Vietnam ou Viêtnamt Nam est un pays d'Asie du Sud-Est situé à l'est de la péninsule indochinoise. Il partage ses frontières avec la Chine au nord, le Laos au nord-ouest et le Cambodge au sud-ouest. Sa capitale est Hanoï. La langue officielle est le vietnamien et la monnaie le dong. C'est un État communiste à parti unique, dirigé par le Parti communiste vietnamien depuis 1975. Le pays est classé 66e pays par ordre de superficie (330 967 km²) et le 15e pays le plus peuplé du monde avec environ 96,2 millions d'habitants en 2019. Constitué d'une longue côte maritime qui s'étend sur près de 3 260 kilomètres, il est bordé du golfe de Thaïlande à l'ouest et de la mer de Chine méridionale à l'est. Environ 85 % de la population est d'ethnie viet que l'on trouve à proximité des rizières, le reste étant composé des 54 groupes minoritaires reconnus par le gouvernement vietnamien et essentiellement réparties dans les reliefs montagneux du nord, du nord-ouest et du centre.",
+            "diaporama": [
+                {
+                    "url": "https://images.nationaltours.fr/(Image)-image-Vietnam-Halong-croisiere-73-fo_37084973-09032017.jpg"
+                },
+                {
+                    "url": "https://www.europarl.europa.eu/resources/library/images/20200205PHT71943/20200205PHT71943_original.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Japon",
+            "cca2": "jp",
+            "iso3": "jpn",
+            "superficie": 377975,
+            "description": "Le Japon, en japonais Nihon ou Nippon, est un pays insulaire de l'Asie de l'Est, situé entre l'océan Pacifique et la mer du Japon, à l'est de la Chine, de la Corée du Sud et de la Russie, et au nord de Taïwan. Étymologiquement, les kanjis (caractères chinois) qui composent le nom du Japon signifient « pays (国, kuni) d'origine (本, hon) du Soleil (日, ni) » ; c'est ainsi que le Japon est désigné comme le « pays du soleil levant ». Le Japon forme, depuis 1945, un archipel de 6 852 îles de plus de 100 m², dont les quatre plus grandes sont Hokkaidō, Honshū, Shikoku et Kyūshū, représentant à elles seules 95 % de la superficie terrestre du pays. L'archipel s'étend sur plus de trois mille kilomètres. La plupart des îles sont montagneuses, parfois volcaniques. Ainsi, le plus haut sommet du Japon, le mont Fuji (3 776 m), est un volcan inactif depuis 1707. Le Japon est le onzième pays le plus peuplé du monde, avec environ 127 millions d'habitants pour 377 975 km25 (337 hab./km2), dont l'essentiel est concentré sur les étroites plaines littorales du sud d'Honshū et du nord de Shikoku et Kyūshū, formant un ensemble pratiquement urbanisé en continu appelé « Mégalopole japonaise » ou « Taiheiyō Belt » (太平洋ベルト, Taiheiyō beruto?, littéralement « ceinture Pacifique »). Le Grand Tokyo, qui comprend la capitale Tokyo et plusieurs préfectures environnantes, est la plus grande région métropolitaine du monde, avec plus de 35 millions d'habitants. La ville a été première place financière mondiale en 1990.",
+            "diaporama": [
+                {
+                    "url": "http://1.bp.blogspot.com/-ApMa77G7YtE/UUuhpfTJRII/AAAAAAAA3gc/2t27g8EYpRU/s1600/dl_wallpaper_10_shaolanli.jpg"
+                },
+                {
+                    "url": "https://d36tnp772eyphs.cloudfront.net/blogs/1/2018/08/Mount-Fuji.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Chine",
+            "cca2": "cn",
+            "iso3": "chn",
+            "superficie": 9596960,
+            "description": "La Chine parfois appelée Chine populaire, est un pays d'Asie de l'Est. Avec plus d'1,4 milliard d'habitants, soit environ un sixième de la population mondiale, elle est le pays le plus peuplé du monde. Elle compte huit agglomérations de plus de dix millions d'habitants, dont la capitale Pékin, Shanghai, Canton, Shenzhen et Chongqing, ainsi que plus de trente villes d'au moins deux millions d'habitants. Avec 9 600 000 km² selon l'ONU (hors Hong Kong, Macao, et Taïwan) ou de 9 596 960 km² selon The World Factbook, la Chine est également le plus grand pays d'Asie orientale et le troisième ou quatrième plus grand pays du monde par la superficie11. La Chine s'étend des côtes de l'océan Pacifique au Pamir et aux Tian Shan, et du désert de Gobi à l'Himalaya et au nord de la péninsule indochinoise. Depuis 2014, le PIB en parité de pouvoir d'achat de la république populaire de Chine est le plus élevé du monde12.",
+			"diaporama": [
+                {
+                    "url": "http://nature-en-image.org/wp-content/uploads/2012/11/grande-muraille-de-chine.jpg"
+                },
+                {
+                    "url": "https://www.mountainguides.com/photos/everest-south/balcony-lhotse_eben_reckord.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Laos",
+            "cca2": "la",
+            "iso3": "lao",
+            "superficie": 236800,
+            "description": "Le Laos est un pays possédant plus de 7 millions d'habitants, sans accès à la mer d'Asie du Sud-est, entouré par la Birmanie (ou Myanmar) et la Chine au nord-ouest, la Thaïlande à l'ouest, le Cambodge au sud et le Viêt Nam à l'est. La ville de Vientiane est sa capitale, la langue officielle le lao, la monnaie officielle le kip. La devise du Laos est « Paix, Indépendance, Démocratie, Unité et Prospérité », et son drapeau est constitué de trois bandes horizontales, les bandes supérieure et inférieure de couleur rouge et celle du milieu de couleur bleue, avec en son centre un disque blanc. L'hymne national est Pheng Xat Lao. Les habitants du Laos sont nommés Laotiens.",
+            "diaporama": [
+                {
+                    "url": "https://back-promocam.orchestra-platform.com/admin/TS/fckUserFiles/Image/FDC_INDISPENSABLE__LAOS_2019/Indispensable-Laos-2019-02.jpg"
+                },
+                {
+                    "url": "http://static.asiawebdirect.com/m/bangkok/portals/laos/homepage/pagePropertiesImage/laos.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Cambodge",
+            "cca2": "kh",
+            "iso3": "khm",
+            "superficie": 181035,
+            "description": "Le Cambodge est un pays d'Asie du Sud-Est, peuplé d’environ 15 millions d'habitants. Sa capitale est Phnom Penh. Le Cambodge est l’État successeur de l’Empire khmer hindouiste et bouddhiste qui règne sur pratiquement toute la péninsule d’Indochine entre le xie et le xive siècles. Le Cambodge a des frontières communes avec la Thaïlande à l'ouest-nord-ouest, le Laos au nord-est et le Viêt Nam à l'est et au sud-est. Les citoyens du pays portent le nom de Cambodgiens ou Khmers en référence à l’ethnie khmère.",
+            "diaporama": [
+                {
+                    "url": "https://cdn.generationvoyage.fr/2019/06/shutterstock_784016377-e1560764319664.jpg"
+                },
+                {
+                    "url": "http://getwallpapers.com/wallpaper/full/e/0/b/102829.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Irak",
+            "cca2": "iq",
+            "iso3": "irq",
+            "superficie": 435052,
+            "description": "L’Irak ou l'Iraq est un pays du Proche-Orient, situé au nord de la péninsule arabique possédant presque 39 millions d'habitants. L’Irak, terme qui vient du persan Eraq et signifie littéralement « basse terre », est parfois appelé « le pays des deux fleuves » en arabe (بلاد الرافدين / bilād ar-rāfidayn), en référence au Tigre et à l'Euphrate. Bagdad en est la capitale. D’une superficie de 435 052 km2, cet État a pour voisin la Turquie au nord, l’Iran (Province du Kurdistan) à l'est, le Koweït au sud-est, l’Arabie saoudite au sud-sud-ouest, la Jordanie à l'extrême ouest et la Syrie au nord-ouest. L’Irak détient les quatrièmes plus grandes réserves de pétrole, et il est membre de l’OPEP.",
+            "diaporama": [
+                {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg/1200px-Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg"
+                },
+                {
+                    "url": "http://fotografia.islamoriente.com/sites/default/files/image_field/Santuario_del_Imam_Ali(P)_en_Nayaf-8_0_3.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Inde",
+            "cca2": "in",
+            "iso3": "ind",
+            "superficie": 3287263,
+            "description": "L'Inde est un pays d'Asie du Sud qui occupe la majeure partie du sous-continent indien. Il y a 1 326 093 247 habitants et sa capitale est New Delhi. L'Inde est le deuxième pays le plus peuplé et le septième pays le plus grand du monde. Le littoral indien s'étend sur plus de sept mille kilomètres. Le pays a des frontières communes avec le Pakistan au nord-ouest, la Chine au nord et à l'est-nord-est, le Népal au nord-est, le Bhoutan , le Bangladesh et la Birmanie à l'est-nord-est. Sur l'océan Indien, l'Inde est à proximité des Maldives au sud-sud-ouest, du Sri Lanka au sud et de l'Indonésie au sud-est. L'Inde revendique également une frontière avec l'Afghanistan au nord-ouest.",
+            "diaporama": [
+                {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Taj_Mahal_Exterior.jpg/1200px-Taj_Mahal_Exterior.jpg "
+                },
+                {
+                    "url": "https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2011/05/bollywooda_a_l.jpg "
+                }
+            ]
+        },
+        {
+            "name": "Bangladesh",
+            "cca2": "bd",
+            "iso3": "bgd",
+            "superficie": 147570,
+            "description": "Le Bangladesh est un pays du sous-continent indien avec 162 650 853 habitants. Situé au nord du golfe du Bengale, quasiment enclavé dans l'Inde, il a une petite frontière commune avec la Birmanie. Sa capitale est Dacca. Les frontières de la région qui constitue aujourd'hui le Bangladesh résultent de la partition des Indes en 1947, quand le pays devint la partie orientale du Dominion du Pakistan, devenu en 1956 la république islamique du Pakistan. Le lien entre les deux parties du Pakistan, fondé sur leur religion majoritaire commune, l'islam, s'est révélé fragile face aux 1 600 km qui les séparaient. Soumis à une discrimination politique et linguistique — l'ourdou étant proclamé langue officielle du Pakistan — ainsi qu'à une négligence économique de la part du pouvoir aux mains du Pakistan occidental, les Bengalis du Pakistan oriental déclarent l'indépendance en 1971, appuyés par l'Inde et l'URSS. Un conflit d'une rare violence s'ensuit, faisant près de trois millions de morts, dix millions de réfugiés et 200 000 viols avérés. Malgré sa libération, le Bangladesh voit son développement marqué par des troubles politiques, avec quatorze chefs de gouvernement et au moins quatre coups d'État dans les années qui suivent.",
+            "diaporama": [
+                {
+                    "url": "https://voyage-images.1-my.com/voyage-images/images-Saint-ville-varanasi-fotos-tourisme-hh_p649.jpg"
+                },
+                {
+                    "url": "https://cdn.britannica.com/97/189797-050-1FC0041B/Night-view-Dhaka-Bangladesh.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Thailande",
+            "cca2": "th",
+            "iso3": "tha",
+            "superficie": 514000,
+            "description": "La Thaïlande est un pays d’Asie du Sud-Est. Avant 1939, il s’appelait le royaume de Siam. Il est bordé au sud-ouest et au nord-ouest par la Birmanie, au sud par la Malaisie, au sud-est par le Cambodge et au nord-est par le Laos. Sa capitale est Bangkok (en thaï : Krung Thep , กรุงเทพฯ, la Cité des anges). La langue officielle est le thaï et la monnaie le baht. C’est une monarchie constitutionnelle depuis 1932 dans laquelle le roi est officiellement le chef de l'État, chef des Forces armées, partisan de la religion bouddhiste et défenseur de toutes les confessions. Sur un plan politique, la Thaïlande a connu 19 coups d'État tentés ou réussis par l'armée depuis 1932, le dernier en date ayant eu lieu le 22 mai 2014. Depuis 1946, plusieurs générations de Thaïlandais n'ont connu qu'un souverain, Bhumibol Adulyadej (Rama IX), dont le règne a duré soixante-dix ans, jusqu'à sa mort le 13 octobre 2016. Son fils Vajiralongkorn (Rama X) lui a succédé le 1er décembre 2016. Il est le 10e souverain de la dynastie Chakri qui règne depuis 1782. Le pays est classé 51e pays par ordre de superficie (514 000 km²) et 21e pays le plus peuplé du monde avec 68 977 400 habitants en 2020, une superficie et une population très proches de celles de la France métropolitaine. Il est constitué d'une large partie continentale prolongée au sud sur près de 1 000 kilomètres par la péninsule Malaise qu'il partage côté ouest avec la Birmanie et dans son sud avec la Malaisie. Environ 75 % de la population sont d'ethnie thaïe, 14 % sont des Chinois, et 3 % sont Malais, le reste étant composé de groupes minoritaires : les Môns, les Khmers et les diverses tribus des collines. La religion principale est le bouddhisme, pratiquée par environ 95 % des Thaïlandais.",
+            "diaporama": [
+                {
+                    "url": "https://www.telegraph.co.uk/content/dam/Travel/Destinations/Asia/Thailand/Phuket/phuket-thailand-beach-boat-lead-main-guide.jpg"
+                },
+                {
+                    "url": "https://resize-parismatch.lanmedia.fr/img/var/news/storage/images/paris-match/people-a-z/maha-vajiralongkorn/24452792-1-fre-FR/Maha-Vajiralongkorn-Rama-X.jpg"
+                }
+            ]
+        }
+    ]
+}

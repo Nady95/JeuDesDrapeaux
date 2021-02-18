@@ -1,0 +1,155 @@
+{
+    "continent": "Europe",
+    "countries": [
+        {
+            "name": "France",
+            "cca2": "fr",
+            "iso3": "fra",
+            "superficie": 643801,
+            "description": "La France, en forme longue depuis 1875 la République française, est un État souverain transcontinental possédant plus de 67.8 milliards d'habitants dont le territoire métropolitain est situé en Europe de l'Ouest. Ce dernier a des frontières terrestres avec la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne et les deux principautés d'Andorre et de Monaco. La France dispose aussi d'importantes façades maritimes sur l'Atlantique et la Méditerranée. Son territoire ultramarin s'étend dans les océans Indien, Atlantique et Pacifique ainsi qu'en Amérique du Sud, et a des frontières terrestres avec le Brésil, le Suriname et les Pays-Bas. Fruit d'une histoire politique longue et mouvementée, la France est une république constitutionnelle unitaire ayant un régime semi-présidentiel. La devise de la République est depuis 1875 « Liberté, Égalité, Fraternité » et son drapeau est constitué des trois couleurs nationales : bleu, blanc, rouge. Son hymne national est La Marseillaise, chant patriotique hérité de la Révolution française. Son principe constitutif est la démocratie : le « gouvernement du peuple, par le peuple et pour le peuple ». Elle a pour capitale Paris et pour langue officielle le français depuis 1539, remplaçant le latin. Ses monnaies sont l'euro depuis 2002 dans la majeure partie du pays et le franc Pacifique dans ses territoires de l'océan Pacifique.",
+            "diaporama": [
+                {
+                    "url": "https://www.istitutomarangoni.com/wp-content/uploads/2017/03/xPARIS_1600X900.jpg.pagespeed.ic.KzPIqCynII.jpg"
+                },
+                {
+                    "url": "https://www.parisinfo.com/var/otcp/sites/images/media/1.-photos/02.-sites-culturels-630-x-405/parc-monceau-bassin-630x405-c-otcp-amelie-dupont-i-121-47/26963-1-fre-FR/Parc-Monceau-bassin-630x405-C-OTCP-Amelie-Dupont-I-121-47.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Autriche",
+            "cca2": "at",
+            "iso3": "aut",
+            "superficie": 83879,
+            "description": "L'Autriche, en forme longue la république d'Autriche, est un État fédéral d'Europe centrale sans accès à la mer possédant environ 8.8 millions d'habitants . Pays montagneux, il est entouré, dans le sens des aiguilles d'une montre, par l'Allemagne et la Tchéquie au nord, la Slovaquie et la Hongrie à l'est, la Slovénie et l'Italie au sud, et par la Suisse et le Liechtenstein à l'ouest. L'Autriche est membre de l'Union européenne et de la zone euro respectivement depuis 1995 et 1999. Sa langue officielle est l'allemand, mais depuis la ratification de la Charte européenne des langues régionales ou minoritaires, six autres langues (hongrois, slovène, croate du Burgenland, tchèque, slovaque et romani) sont reconnues. Sa capitale et plus grande ville est Vienne.",
+            "diaporama": [
+                {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Belvedere%2C_Vienna_September_2016.jpg/1200px-Belvedere%2C_Vienna_September_2016.jpg"
+                },
+                {
+                    "url": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Football_Autriche_maillot.svg/720px-Football_Autriche_maillot.svg.png"
+                }
+            ]
+        },
+        {
+            "name": "Belgique",
+            "cca2": "be",
+            "iso3": "bel",
+            "superficie": 30689,
+            "description": "La Belgique est un pays d’Europe de l'Ouest, bordé par la France, les Pays-Bas, l’Allemagne, le Luxembourg et la mer du Nord. Politiquement, il s'agit d’une monarchie constitutionnelle fédérale à régime parlementaire. Elle est l’un des six pays fondateurs de l’Union européenne et accueille, dans sa capitale Bruxelles, le Conseil de l'Union européenne, la Commission européenne, les Commissions parlementaires et six sessions plénières additionnelles du Parlement européen, ainsi que d’autres organisations internationales comme l’OTAN. Le pays accueille également, à Mons, le Grand Quartier général des puissances alliées en Europe (SHAPE). La Belgique couvre une superficie de 30 688 km² avec une population de 11 476 279 habitants au 1er janvier 20201, soit une densité de 373,97 habitants/km².",
+            "diaporama": [
+                {
+                    "url": "https://bestofbrussels.files.wordpress.com/2011/09/belgianfrites.jpg"
+                },
+                {
+                    "url": "https://sheppardmau.files.wordpress.com/2013/12/bruxelles-tapis-fleurs-2010-1.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Italie",
+            "cca2": "it",
+            "iso3": "ita",
+            "superficie": 301338,
+            "description": "L'Italie est un pays d'Europe du Sud possedant 60 359 546 habitants (2019) correspondant physiquement à une partie continentale, une péninsule située au centre de la mer Méditerranée et une partie insulaire constituée par les deux plus grandes îles de cette mer, la Sicile et la Sardaigne, et beaucoup d'autres îles plus petites (hormis la Corse, française depuis 1769). Elle est rattachée au reste du continent par le massif des Alpes. Le territoire italien correspond approximativement à la région géographique homonyme. Sa capitale est Rome.",
+            "diaporama": [
+                {
+                    "url": "https://cdn.getyourguide.com/img/tour_img-441389-148.jpg"
+                },
+                {
+                    "url": "http://www.coloori.com/wp-content/uploads/2016/03/tourdepise.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Espagne",
+            "cca2": "es",
+            "iso3": "esp",
+            "superficie": 505990,
+            "description": "L'Espagne est un pays d'Europe du Sud — et, selon les définitions, d'Europe de l'Ouest — qui a pour capital Madrid et occupe la plus grande partie de la péninsule Ibérique. En 2019, il s'agissait du vingt-huitième pays le plus peuplé du monde, avec 47 millions d'habitants. L'Espagne est bordée au nord-est par les Pyrénées, qui constituent une frontière naturelle avec la France et l'Andorre ; à l'est et au sud-est par la mer Méditerranée, au sud-sud-ouest par le territoire britannique de Gibraltar et le détroit du même nom, ce dernier séparant le continent européen de l'Afrique. Le Portugal est limitrophe de l'Espagne à l'ouest tandis que l'océan Atlantique borde le pays à l'ouest-nord-ouest ; enfin le golfe de Gascogne baigne le littoral nord. Le territoire espagnol inclut également les îles Baléares en Méditerranée, les îles Canaries dans l'océan Atlantique au large de la côte africaine, et deux cités autonomes en Afrique du Nord, Ceuta et Melilla, limitrophes du Maroc. Avec une superficie de 504 030 km², l'Espagne est le pays le plus étendu d'Europe de l'Ouest et de l'Union européenne après la France ainsi que le troisième d'Europe derrière l'Ukraine et la France si l'on exclut la partie européenne (selon les définitions) de la Russie.",
+            "diaporama": [
+                {
+                    "url": "https://www.angelio.net/blogangelio/wp-content/uploads/2017/11/1200x768_corrida-illustration.jpg"
+                },
+                {
+                    "url": "https://www.lonelyplanet.fr/sites/lonelyplanet/files/styles/manual_crop/public/media/destination/slider/mobile/espagne_du_nord_1005.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Russie",
+            "cca2": "ru",
+            "iso3": "rus",
+            "superficie": 17125191,
+            "description": "La Russie est un État fédéral transcontinental fondé en 1991, à la suite de la dislocation de l'Union des républiques socialistes soviétiques et reconnu comme successeur légal de celle-ci. Sa capitale est Moscou, sa langue officielle le russe et sa monnaie le rouble. Plus vaste État de la planète, la Russie est à cheval sur l'Asie du Nord (74,7 % de sa superficie) et sur l'Europe (25,3 %). Le territoire s'étend ainsi d'ouest en est, de l'enclave de Kaliningrad au district autonome de Tchoukotka, sur plus de 9 000 kilomètres et pour une superficie de 17 125 191 km². Bien qu'entourée de nombreuses mers et de deux océans, la Russie est caractérisée par un climat continental avec des milieux particulièrement froids et hostiles sur la majeure partie du territoire. La population russe est estimée à près de 147 millions d'habitants en 2019, ce qui en fait le neuvième pays le plus peuplé de la planète. 78 % de ses habitants vivent en Europe.",
+            "diaporama": [
+                {
+                    "url": "http://www.voyager-seule.com/wp-content/uploads/2012/10/place-rouge-moscou.jpg"
+                },
+                {
+                    "url": "http://shop.itroika.com/images/Image/poupees-russe-E1119__0027_1416405143.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Royaume-Uni",
+            "cca2": "gb",
+            "iso3": "gbr",
+            "superficie": 242495,
+            "description": "Le Royaume-Uni est un pays d'Europe de l'Ouest, ou selon certaines définitions, d'Europe du Nord, dont le territoire comprend l'île de Grande-Bretagne et la partie nord de l'île d'Irlande, ainsi que de nombreuses petites îles autour de l'archipel. Le territoire du Royaume-Uni partage une frontière terrestre avec la république d'Irlande, et est entouré par l'océan Atlantique au nord, la mer du Nord à l'est, la Manche au sud, la mer Celtique au sud-sud-ouest, la mer d'Irlande au sud-ouest et les mers intérieures de la côte ouest de l'Écosse au nord-ouest. Le Royaume-Uni couvre une superficie de 246 690 km², faisant de lui le 80e plus grand pays du monde, et le 11e d'Europe. Il est le 22e pays plus peuplé du monde, avec une population estimée à 65,1 millions d'habitants. Le Royaume-Uni est une monarchie constitutionnelle ; il possède un système parlementaire de gouvernance. Sa capitale est Londres, une ville mondiale et la première place financière au monde.",
+            "diaporama": [
+                {
+                    "url": "https://cdn.londonandpartners.com/-/media/images/london/visit/whats-on/event-pages/buckinghampalace1920x1080.jpg"
+                },
+                {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Clock_Tower_-_Palace_of_Westminster%2C_London_-_September_2006.jpg/1200px-Clock_Tower_-_Palace_of_Westminster%2C_London_-_September_2006.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Norvège",
+            "cca2": "no",
+            "iso3": "nor",
+            "superficie": 385203,
+            "description": "La Norvège est un pays d'Europe du Nord. Située à l'ouest-nord-ouest de la péninsule Scandinave qu'elle partage avec la Suède, elle possède également des frontières avec la Finlande et la Russie au nord-est, et est bordée par l'océan Atlantique à l'ouest-nord-ouest et au sud-est, enfin par l'océan Arctique au nord-est. Avec 5 millions d'habitants pour 385 199 km², dont 307 860 km² de terre, la Norvège est après l'Islande et la Russie le pays le moins densément peuplé d'Europe. Sa capitale, et plus grande ville, est Oslo. La Norvège possède pour langues officielles deux dialectes du norvégien, le bokmål et le nynorsk, et pour monnaie la couronne norvégienne (NOK).",
+            "diaporama": [
+                {
+                  "url": "https://thumbs.dreamstime.com/b/%C3%A9p%C3%A9es-dans-le-monument-de-roche-hafrsfjord-norv%C3%A8ge-56471885.jpg"
+                },
+                {
+                  "url": "https://s1.1zoom.me/big3/419/Norway_Houses_Evening_Monuments_Oslo_National_553807_4540x3100.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Ukraine",
+            "cca2": "ua",
+            "iso3": "ukr",
+            "superficie": 603628,
+            "description": "L'Ukraine est un État d'Europe orientale possedant environ 42 millions d'habitants, le deuxième d'Europe par sa superficief. Elle est bordée par la mer Noire et la mer d'Azov au sud, frontalière avec la Russie au nord-est et à l'est, avec la Biélorussie au nord, avec la Pologne à l'ouest-nord-ouest, avec la Slovaquie et la Hongrie à l'ouest et avec la Roumanie et la Moldavie au sud-ouest. Sa capitale est Kiev, sa langue officielle est l'ukrainien et sa monnaie est la hryvnia.",
+            "diaporama": [
+                {
+                  "url": "https://i.pinimg.com/originals/6e/30/1c/6e301cdd3f5c1c6e33e9f7a8eef1f625.jpg"
+                },
+                {
+                  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkZ47bKB3E9kNuOzAAUk2tsDy-I0Ni4geFVJ4XXiqU11cwV20Z&usqp=CAU"
+                }
+            ]
+        },
+        {
+            "name": "Suisse",
+            "cca2": "ch",
+            "iso3": "che",
+            "superficie": 41285,
+            "description": "La Suisse est un pays d'Europe centrale et, selon certaines définitions, de l'Ouest, formé de 26 cantons, avec Berne pour capitale de facto, parfois appelée « ville fédérale ». La Suisse est bordée par l'Allemagne au nord, l'Autriche et le Liechtenstein à l'est-nord-est, l'Italie au sud et au sud-est et la France à l'ouest. C'est un pays sans côte océanique, mais qui dispose d'un accès direct à la mer par le Rhin (Convention de Mannheim). La superficie de la Suisse est de 41 285 km². Elle est géographiquement divisée entre les Alpes, le plateau suisse et le Jura. Les Alpes occupent la majeure partie du territoire (60 %). La population de la Suisse dépasse les 8,5 millions d'habitants et elle se concentre principalement sur le plateau, là où se trouvent les plus grandes villes. Parmi elles, Zurich, Genève et Bâle sont les agglomérations les plus importantes du pays en termes économiques et de population, et des villes mondiales où se trouvent le siège d'organisations internationales et des aéroports de dimension internationale.",
+            "diaporama": [
+                {
+                    "url": "http://roger-federer.org/wp-content/uploads/photo-gallery/Roger%20Federer%20Wallpapers%203.jpg"
+                },
+                {
+                    "url": "https://www.sacree-montagne.fr/images/site/articles/Matterhorn-EastAndNorthside-viewedFromZermatt_landscapeformat-2.jpg"
+                }
+            ]
+        }
+    ]
+}
